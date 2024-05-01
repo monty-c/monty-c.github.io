@@ -1,0 +1,15 @@
+
+
+
+
+body { 
+	background-color: black; 
+	background-image: url("mainbg1.png");
+	color: white;
+} 
+
+#wrapper { 
+	width: 960px; 
+ 	margin: auto; 
+ 	background-color: black; 
+} 
