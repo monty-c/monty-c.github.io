@@ -1,0 +1,18 @@
+
+body { 
+	background-image: url("img/bg/bg1_purple.png");
+} 
+
+header { 
+	background-image: url("img/banner_interests1.png");
+
+  background-position: bottom;
+} 
+
+#pagecaption {
+	border-color: darkslateblue;
+}
+
+#main {
+	border-color: darkslateblue;
+}
