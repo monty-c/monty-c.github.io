@@ -9,7 +9,25 @@ body {
 } 
 
 #wrapper { 
-	width: 960px; 
+	max-width: 960px; 
  	margin: auto; 
  	background-color: black; 
 } 
+
+header h1 { 
+	position: relative;
+	left: 160px;
+	text-align: left;/*center*/
+}
+
+#sidebar {
+	position: fixed;
+	width: 160px;
+	/*left: 100px;*/
+	transform: translate(-160px, 0px);
+}
+
+#main {
+	margin: 16px;
+
+}
