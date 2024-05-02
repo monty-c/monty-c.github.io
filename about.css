@@ -1,0 +1,19 @@
+
+body { 
+  background-image: url("img/bg/bg1_green.png");
+} 
+
+header { 
+  background-image: url("img/bnr/banner_about1.png");
+  background-position: center left;
+} 
+
+header h1 { text-shadow-color: black; }
+
+#pagecaption {
+  border-color: olivedrab;
+}
+
+#main {
+  border-color: olivedrab;
+}
